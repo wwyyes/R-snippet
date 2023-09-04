@@ -1,3 +1,4 @@
+# This note is based on YaRrr! The Pirate’s Guide to R (https://bookdown.org/ndphillips/YaRrr/); 
 # Chi-square test
 #?chisq.test
 # chisq.test(x, y = NULL, correct = TRUE,
