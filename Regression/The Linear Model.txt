@@ -1,0 +1,13 @@
+# This note is based on https://bookdown.org/ndphillips/YaRrr/the-linear-model.html: YaRrr! The Pirate’s Guide to R
+The linear model is easily the most famous and widely used model in all of statistics. 
+
+Why? 
+  - Because it can apply to so many interesting research questions where you are trying to predict a continuous variable of interest (the response or dependent variable) on the basis of one or more other variables (the predictor or independent variables).
+
+The linear model takes the following form, where the x values represent the predictors, while the beta values represent weights.
+
+y = β0 + β1x1 + β2x2+... + βnxn
+
+For example, we could use a regression model to understand how the value of a diamond relates to two independent variables: its weight and clarity. 
+In the model, we could define the value of a diamond as βweight × weight + βclarity × clarity. 
+Where βweight indicates how much a diamond’s value changes as a function of its weight, and βclarity defines how much a diamond’s value change as a function of its clarity.
