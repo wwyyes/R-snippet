@@ -1,8 +1,0 @@
-# This note is based on YaRrr! The Pirate’s Guide to R (https://bookdown.org/ndphillips/YaRrr/); 
-# You conduct an ANOVA when you are testing the effect of one or more nominal (aka factor) independent variable(s) on a numerical dependent variable. 
-# A nominal (factor) variable is one that contains a finite number of categories with no inherent order. 
-# Gender, profession, and experimental conditions are good examples of factors. 
-# If you only include one independent variable, this is called a One-way ANOVA. 
-# - e.g.: Is there a difference between the different cleaners on cleaning time (ignoring poop type)?
-# If you include two independent variables, this is called a Two-way ANOVA. 
-# If you include three independent variables it is called a Menage a trois `NOVA.
