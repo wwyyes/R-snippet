@@ -2,6 +2,10 @@
 R functions 
 
 Future Plan: 
+
+R for Data Science (2e) # https://r4ds.hadley.nz/ 
+
+
 Applied Predictive Modeling - A great text specializing in statistical learning aka predictive modeling aka machine learning with R. # https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485/ref=sr_1_1?ie=UTF8&qid=1487759459&sr=8-1&keywords=applied+predictive+modeling
 
 
